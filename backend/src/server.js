@@ -16,7 +16,7 @@ const __dirname = path.resolve();
 
 // Allowed origins
 const allowedOrigins = [
-  "http://localhost:5173", // local frontend
+  "http://localhost:5174", // local frontend
   "https://streamhub-38hk.onrender.com", // deployed frontend
 ];
 
